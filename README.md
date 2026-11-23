@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
-  <img src="assets/light/hero.svg" alt="Noe Kvirkvelia - Frontend Developer &amp; Designer" width="900">
+  <img src="assets/light/hero.svg" alt="Noe Kvirkvelia - Front-End Developer" width="900">
 </picture>
 
 <picture>
@@ -18,29 +18,29 @@
 <table align="center" width="900">
   <tr>
     <td>
-<a href="https://example.com"><picture>
+<a href="https://github.com/Noahfisherrrr"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/card1.svg">
-  <img src="assets/light/card1.svg" alt="Project One" width="440">
+  <img src="assets/light/card1.svg" alt="Sukhishvili Ballet" width="440">
 </picture></a>
     </td>
     <td>
-<a href="https://example.com"><picture>
+<a href="https://displaymax.ge/"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/card2.svg">
-  <img src="assets/light/card2.svg" alt="Project Two" width="440">
+  <img src="assets/light/card2.svg" alt="Display Max" width="440">
 </picture></a>
     </td>
   </tr>
   <tr>
     <td>
-<a href="https://example.com"><picture>
+<a href="https://noahfisherrrr.github.io/MET/"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/card3.svg">
-  <img src="assets/light/card3.svg" alt="Project Three" width="440">
+  <img src="assets/light/card3.svg" alt="Cycling Calorie Calculator" width="440">
 </picture></a>
     </td>
     <td>
-<a href="https://example.com"><picture>
+<a href="https://noahfisherrrr.github.io/realEstateMarketplace/"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/card4.svg">
-  <img src="assets/light/card4.svg" alt="Project Four" width="440">
+  <img src="assets/light/card4.svg" alt="Real Estate Platform" width="440">
 </picture></a>
     </td>
   </tr>
@@ -66,28 +66,28 @@
   <img src="assets/light/signal.svg" alt="Signal" width="900">
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0f13&title_color=2dd4bf&icon_color=fbbf24&text_color=e6edf3" height="170" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0f13&title_color=2dd4bf&text_color=e6edf3" height="170" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Noahfisherrrr&show_icons=true&hide_border=true&bg_color=0b0f13&title_color=2dd4bf&icon_color=fbbf24&text_color=e6edf3" height="170" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noahfisherrrr&layout=compact&hide_border=true&bg_color=0b0f13&title_color=2dd4bf&text_color=e6edf3" height="170" alt="Top languages">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact.svg">
   <img src="assets/light/contact.svg" alt="Contact" width="900">
 </picture>
 
-<a href="https://linkedin.com/in/YOUR_HANDLE"><picture>
+<a href="https://noahfisherrrr.github.io/Portfo/"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn1.svg">
-  <img src="assets/light/btn1.svg" alt="LinkedIn">
-</picture></a> <a href="https://instagram.com/YOUR_HANDLE"><picture>
+  <img src="assets/light/btn1.svg" alt="Portfolio">
+</picture></a> <a href="https://linkedin.com/in/noah-kvirkvelia"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn2.svg">
-  <img src="assets/light/btn2.svg" alt="Instagram">
-</picture></a> <a href="mailto:you@example.com"><picture>
+  <img src="assets/light/btn2.svg" alt="LinkedIn">
+</picture></a> <a href="mailto:kvirkvelianoah@gmail.com"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn3.svg">
   <img src="assets/light/btn3.svg" alt="Email">
 </picture></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
-  <img src="assets/light/footer.svg" alt="Always learning, always shipping." width="900">
+  <img src="assets/light/footer.svg" alt="Clean code, fast pages, accessible by default." width="900">
 </picture>
 
 </div>

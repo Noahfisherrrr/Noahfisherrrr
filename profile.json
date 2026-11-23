@@ -1,29 +1,34 @@
 {
-  "username": "YOUR_USERNAME",
-  "name": "Your Name",
-  "role": "Frontend Developer & Designer",
-  "location": "City, Country",
-  "tagline": "I design interfaces, and build everything behind them.",
-  "about": "Write two or three sentences about what you build, how you think, and what you are working toward right now.",
-  "stats": [["8", "apps shipped"], ["30", "quality checks"], ["6 yrs", "in production"]],
+  "username": "Noahfisherrrr",
+  "name": "Noe Kvirkvelia",
+  "role": "Front-End Developer",
+  "location": "Tbilisi, Georgia",
+  "tagline": "I turn Figma designs into fast, accessible interfaces.",
+  "about": "Front-end developer with 2+ years of experience building responsive, accessible, SEO-optimized web apps with React, JavaScript and SCSS, plus custom WordPress and Elementor solutions. I also build my own AI tooling to speed up daily development.",
+  "stats": [["2+ yrs", "front-end experience"], ["100%", "Lighthouse on 2 projects"], ["4", "projects shipped"]],
   "projects": [
-    {"title": "Project One", "desc": "Multi-sport SaaS platform", "tag": "React / Node", "url": "https://example.com"},
-    {"title": "Project Two", "desc": "Studio website with CMS", "tag": "Next.js", "url": "https://example.com"},
-    {"title": "Project Three", "desc": "Phone repair studio site", "tag": "Design + Dev", "url": "https://example.com"},
-    {"title": "Project Four", "desc": "Mobile game on Google Play", "tag": "Mobile", "url": "https://example.com"}
+    {"title": "Sukhishvili Ballet", "desc": "React SPA with GSAP and WebGL, built from Figma", "tag": "React / GSAP", "url": "https://github.com/Noahfisherrrr"},
+    {"title": "Display Max", "desc": "Elementor redesign, faster loads, on-page SEO", "tag": "WordPress", "url": "https://displaymax.ge/"},
+    {"title": "Cycling Calorie Calculator", "desc": "Calories and carbs burned by bike, grade, time", "tag": "JavaScript", "url": "https://noahfisherrrr.github.io/MET/"},
+    {"title": "Real Estate Platform", "desc": "Mobile-first bottom-bar navigation, fast images", "tag": "HTML / CSS", "url": "https://noahfisherrrr.github.io/realEstateMarketplace/"}
   ],
-  "how": ["Design first: every screen starts in Figma, then becomes code.", "Monorepo workflow with shared components and strict types.", "AI-assisted engineering for speed, human review for quality."],
+  "how": [
+    "Figma to code: pixel-faithful React interfaces with GSAP and WebGL motion.",
+    "Performance, accessibility and SEO measured with Lighthouse.",
+    "AI-assisted engineering with Claude Code and OpenAI Codex CLI."
+  ],
   "toolkit": [
-    ["Interface", ["React", "Next.js", "TypeScript", "Tailwind"]],
-    ["Motion / Graphics", ["Framer Motion", "Figma", "SVG"]],
-    ["Data / Backend", ["Node.js", "PostgreSQL", "Firebase"]],
-    ["Mobile / Tooling", ["React Native", "Git", "Docker"]]
+    ["Frontend", ["React", "TypeScript", "JavaScript", "Tailwind", "SCSS"]],
+    ["Motion / Graphics", ["GSAP", "WebGL", "Figma", "Adobe XD"]],
+    ["CMS / Tools", ["WordPress", "Elementor Pro", "Git", "Trello"]],
+    ["AI Workflow", ["Claude Code", "OpenAI Codex", "Custom AI tools"]]
   ],
   "path": [
-    ["2024 - now", "Freelance Developer & Designer", "Building products end to end"],
-    ["2020 - 2024", "Previous Role", "What you did there"],
-    ["Languages", "Georgian · English · Russian", "Add your own"]
+    ["Now", "Front-End Developer, Sukhishvili Ballet", "React SPA with GSAP and WebGL"],
+    ["2025.11 - now", "10x College, Front-End Development", "Top-rated student, now assistant to the lecturer"],
+    ["2025.04 - 2025.09", "Smart Academy, Front-End and SEO/SEM", "Graduated with the highest grade"],
+    ["Languages", "Georgian · English B2 · Russian B1", "Native, upper-intermediate, intermediate"]
   ],
-  "contact": [["LinkedIn", "https://linkedin.com/in/YOUR_HANDLE"], ["Instagram", "https://instagram.com/YOUR_HANDLE"], ["Email", "mailto:you@example.com"]],
-  "quote": "Always learning, always shipping."
+  "contact": [["Portfolio", "https://noahfisherrrr.github.io/Portfo/"], ["LinkedIn", "https://linkedin.com/in/noah-kvirkvelia"], ["Email", "mailto:kvirkvelianoah@gmail.com"]],
+  "quote": "Clean code, fast pages, accessible by default."
 }
