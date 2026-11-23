@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
-  <img src="assets/light/hero.svg" alt="Your Name - Frontend Developer &amp; Designer" width="900">
+  <img src="assets/light/hero.svg" alt="Noe Kvirkvelia - Frontend Developer &amp; Designer" width="900">
 </picture>
 
 <picture>
