@@ -1,0 +1,29 @@
+{
+  "username": "YOUR_USERNAME",
+  "name": "Your Name",
+  "role": "Frontend Developer & Designer",
+  "location": "City, Country",
+  "tagline": "I design interfaces, and build everything behind them.",
+  "about": "Write two or three sentences about what you build, how you think, and what you are working toward right now.",
+  "stats": [["8", "apps shipped"], ["30", "quality checks"], ["6 yrs", "in production"]],
+  "projects": [
+    {"title": "Project One", "desc": "Multi-sport SaaS platform", "tag": "React / Node", "url": "https://example.com"},
+    {"title": "Project Two", "desc": "Studio website with CMS", "tag": "Next.js", "url": "https://example.com"},
+    {"title": "Project Three", "desc": "Phone repair studio site", "tag": "Design + Dev", "url": "https://example.com"},
+    {"title": "Project Four", "desc": "Mobile game on Google Play", "tag": "Mobile", "url": "https://example.com"}
+  ],
+  "how": ["Design first: every screen starts in Figma, then becomes code.", "Monorepo workflow with shared components and strict types.", "AI-assisted engineering for speed, human review for quality."],
+  "toolkit": [
+    ["Interface", ["React", "Next.js", "TypeScript", "Tailwind"]],
+    ["Motion / Graphics", ["Framer Motion", "Figma", "SVG"]],
+    ["Data / Backend", ["Node.js", "PostgreSQL", "Firebase"]],
+    ["Mobile / Tooling", ["React Native", "Git", "Docker"]]
+  ],
+  "path": [
+    ["2024 - now", "Freelance Developer & Designer", "Building products end to end"],
+    ["2020 - 2024", "Previous Role", "What you did there"],
+    ["Languages", "Georgian · English · Russian", "Add your own"]
+  ],
+  "contact": [["LinkedIn", "https://linkedin.com/in/YOUR_HANDLE"], ["Instagram", "https://instagram.com/YOUR_HANDLE"], ["Email", "mailto:you@example.com"]],
+  "quote": "Always learning, always shipping."
+}
