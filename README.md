@@ -74,10 +74,7 @@
   <img src="assets/light/contact.svg" alt="Contact" width="900">
 </picture>
 
-<a href="https://noahfisherrrr.github.io/Portfo/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn1.svg">
-  <img src="assets/light/btn1.svg" alt="Portfolio">
-</picture></a> <a href="https://linkedin.com/in/noah-kvirkvelia"><picture>
+<a href="https://linkedin.com/in/noah-kvirkvelia"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn2.svg">
   <img src="assets/light/btn2.svg" alt="LinkedIn">
 </picture></a> <a href="mailto:kvirkvelianoah@gmail.com"><picture>
